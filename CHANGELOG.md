@@ -2,8 +2,13 @@
 
 ## 2026.10.27
 
+### Fixes
+
+#### EU
+- drop the standalone <br/> lines from the web hosting version legend (#1095)
+
 ### Documentation
-- EU: 57 guides across de, en, es, fr, it, pl, pt
+- EU: 64 guides across de, en, es, fr, it, pl, pt
 
 ## 2026.10.26.1
 
